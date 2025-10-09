@@ -1,0 +1,25 @@
+{
+  "name": "taller_mecanico",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varonmaicol/TALLER_MECANICO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varonmaicol/TALLER_MECANICO/issues"
+  },
+  "homepage": "https://github.com/varonmaicol/TALLER_MECANICO#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
